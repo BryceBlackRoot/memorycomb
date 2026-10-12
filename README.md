@@ -1,0 +1,39 @@
+# MemoryComb
+
+**One memory. Every AI. Your whole team.**
+
+MemoryComb is a memory library that lives on your Mac. Claude, ChatGPT and your other AIs all read and write the same memory, so you stop re-explaining yourself every time you switch AIs. Every read has a receipt, and an AI Scorecard shows which AI's facts turned out wrong.
+
+This page has the downloads only. MemoryComb is in early testing (macOS only).
+
+## Install (pick one)
+
+### If you use the Claude app (easiest)
+1. Download **memorycomb-*.mcpb** from the [latest release](../../releases/latest).
+2. Double-click it. Claude opens its install screen; click **Install**.
+   Claude shows a red "not verified" warning for every extension that isn't in its directory yet. What MemoryComb touches: only its own memory folder on your Mac (`~/.memorycomb`) and an encrypted daily backup in your iCloud Drive.
+3. Start a new chat and ask: **"What's in my MemoryComb?"**
+
+### Terminal (Claude Code, ChatGPT and everything else)
+```bash
+curl -fsSL https://github.com/BryceBlackRoot/memorycomb/releases/latest/download/install.sh | sh
+```
+It installs MemoryComb for your user only (no admin password), starts it at login, and opens the dashboard's **Get started** page.
+
+## After installing
+Your dashboard is at **http://127.0.0.1:8765** (it only opens on your own Mac). From there:
+- **Get started**: tap the AI you're connecting.
+- **Import**: bring in what ChatGPT, Claude, Gemini or Grok already know about you.
+- **Team**: share one memory with the people you work with (test version: runs while your Mac is on).
+
+## Free trial
+Everything is free for 7 days. After that the Free plan stays free forever (350 memories, 2 AIs). Nothing is ever deleted, and you can always view and export your memory.
+
+## Uninstall
+```bash
+~/.local/bin/memorycomb uninstall
+```
+This removes the app and its login item but **keeps your memory** in `~/.memorycomb`. In the Claude app, remove the extension under Settings › Extensions.
+
+## Feedback
+Found a problem or have an idea? Open an issue on this page.
