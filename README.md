@@ -33,6 +33,9 @@ Your dashboard is at **http://127.0.0.1:8765** (it only opens on your own comput
 - **Import**: bring in what ChatGPT, Claude, Gemini or Grok already know about you.
 - **Team**: share one memory with the people you work with (test version: runs while your computer is on).
 
+## Privacy
+Your memory never leaves your computer unless you switch on sharing (for ChatGPT or teammates). MemoryComb goes online only to check for a newer version once a day (it asks for the version number, nothing else), to check a paid license key once a week, and for sharing you switch on.
+
 ## Free trial
 Everything is free for 7 days. After that the Free plan stays free forever (350 memories, 2 AIs). Nothing is ever deleted, and you can always view and export your memory.
 
