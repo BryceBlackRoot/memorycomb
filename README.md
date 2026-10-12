@@ -10,6 +10,8 @@ This page has the downloads only. MemoryComb is in early testing on **Mac and Wi
 
 ## Install (pick one)
 
+By installing MemoryComb you agree to the [License](LICENSE.md). Please also read the [Privacy Policy](PRIVACY.md).
+
 ### If you use the Claude app (easiest)
 1. Download **memorycomb-*.mcpb** from the [latest release](../../releases/latest).
 2. Double-click it. Claude opens its install screen; click **Install**.
@@ -48,3 +50,8 @@ This removes the app and its login item but **keeps your memory** in `~/.memoryc
 
 ## Feedback
 Found a problem or have an idea? Open an issue on this page.
+
+## Legal
+[License](LICENSE.md) · [Privacy Policy](PRIVACY.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)
+
+MemoryComb is early test software provided as is. Memories and AI answers can be wrong: check anything important yourself. Nothing in MemoryComb is professional advice.
