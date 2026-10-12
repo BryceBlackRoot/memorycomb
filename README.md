@@ -6,7 +6,7 @@ MemoryComb is a memory library that lives on your computer. Claude, ChatGPT and 
 
 **Built to be trusted:** every memory is checked for hidden instructions before any AI reads it, your AIs can fact-check each other (you settle any disagreement), and your memory stays on your computer with encrypted backups to your own iCloud.
 
-This page has the downloads only. MemoryComb is in early testing: **available for Mac now, Windows coming soon.**
+This page has the downloads only. MemoryComb is in early testing on **Mac and Windows** (Windows is newer: tell us what breaks).
 
 ## Install (pick one)
 
@@ -16,9 +16,14 @@ This page has the downloads only. MemoryComb is in early testing: **available fo
    Claude shows a red "not verified" warning for every extension that isn't in its directory yet. What MemoryComb touches: only its own memory folder on your computer (`~/.memorycomb`) and an encrypted daily backup in your iCloud Drive.
 3. Start a new chat and ask: **"What's in my MemoryComb?"**
 
-### Terminal (Claude Code, ChatGPT and everything else)
+### Mac: Terminal (Claude Code, ChatGPT and everything else)
 ```bash
 curl -fsSL https://github.com/BryceBlackRoot/memorycomb/releases/latest/download/install.sh | sh
+```
+
+### Windows: PowerShell (early test)
+```powershell
+irm https://github.com/BryceBlackRoot/memorycomb/releases/latest/download/install.ps1 | iex
 ```
 It installs MemoryComb for your user only (no admin password), starts it at login, and opens the dashboard's **Get started** page.
 
@@ -35,6 +40,7 @@ Everything is free for 7 days. After that the Free plan stays free forever (350 
 ```bash
 ~/.local/bin/memorycomb uninstall
 ```
+On Windows: `memorycomb uninstall` in PowerShell.
 This removes the app and its login item but **keeps your memory** in `~/.memorycomb`. In the Claude app, remove the extension under Settings › Extensions.
 
 ## Feedback
