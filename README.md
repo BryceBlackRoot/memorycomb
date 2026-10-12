@@ -2,18 +2,18 @@
 
 **One memory. Every AI. Your whole team.**
 
-MemoryComb is a memory library that lives on your Mac. Claude, ChatGPT and your other AIs all read and write the same memory, so you stop re-explaining yourself every time you switch AIs. Every read has a receipt, and an AI Scorecard shows which AI's facts turned out wrong.
+MemoryComb is a memory library that lives on your computer. Claude, ChatGPT and your other AIs all read and write the same memory, so you stop re-explaining yourself every time you switch AIs. Every read has a receipt, and an AI Scorecard shows which AI's facts turned out wrong.
 
-**Built to be trusted:** every memory is checked for hidden instructions before any AI reads it, your AIs can fact-check each other (you settle any disagreement), and your memory stays on your Mac with encrypted backups to your own iCloud.
+**Built to be trusted:** every memory is checked for hidden instructions before any AI reads it, your AIs can fact-check each other (you settle any disagreement), and your memory stays on your computer with encrypted backups to your own iCloud.
 
-This page has the downloads only. MemoryComb is in early testing (macOS only).
+This page has the downloads only. MemoryComb is in early testing: **available for Mac now, Windows coming soon.**
 
 ## Install (pick one)
 
 ### If you use the Claude app (easiest)
 1. Download **memorycomb-*.mcpb** from the [latest release](../../releases/latest).
 2. Double-click it. Claude opens its install screen; click **Install**.
-   Claude shows a red "not verified" warning for every extension that isn't in its directory yet. What MemoryComb touches: only its own memory folder on your Mac (`~/.memorycomb`) and an encrypted daily backup in your iCloud Drive.
+   Claude shows a red "not verified" warning for every extension that isn't in its directory yet. What MemoryComb touches: only its own memory folder on your computer (`~/.memorycomb`) and an encrypted daily backup in your iCloud Drive.
 3. Start a new chat and ask: **"What's in my MemoryComb?"**
 
 ### Terminal (Claude Code, ChatGPT and everything else)
@@ -23,10 +23,10 @@ curl -fsSL https://github.com/BryceBlackRoot/memorycomb/releases/latest/download
 It installs MemoryComb for your user only (no admin password), starts it at login, and opens the dashboard's **Get started** page.
 
 ## After installing
-Your dashboard is at **http://127.0.0.1:8765** (it only opens on your own Mac). From there:
+Your dashboard is at **http://127.0.0.1:8765** (it only opens on your own computer). From there:
 - **Get started**: tap the AI you're connecting.
 - **Import**: bring in what ChatGPT, Claude, Gemini or Grok already know about you.
-- **Team**: share one memory with the people you work with (test version: runs while your Mac is on).
+- **Team**: share one memory with the people you work with (test version: runs while your computer is on).
 
 ## Free trial
 Everything is free for 7 days. After that the Free plan stays free forever (350 memories, 2 AIs). Nothing is ever deleted, and you can always view and export your memory.
