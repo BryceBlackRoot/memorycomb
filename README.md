@@ -4,6 +4,8 @@
 
 MemoryComb is a memory library that lives on your Mac. Claude, ChatGPT and your other AIs all read and write the same memory, so you stop re-explaining yourself every time you switch AIs. Every read has a receipt, and an AI Scorecard shows which AI's facts turned out wrong.
 
+**Built to be trusted:** every memory is checked for hidden instructions before any AI reads it, your AIs can fact-check each other (you settle any disagreement), and your memory stays on your Mac with encrypted backups to your own iCloud.
+
 This page has the downloads only. MemoryComb is in early testing (macOS only).
 
 ## Install (pick one)
