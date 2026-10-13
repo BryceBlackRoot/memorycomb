@@ -38,8 +38,10 @@ Your dashboard is at **http://127.0.0.1:8765** (it only opens on your own comput
 ## Privacy
 Your memory never leaves your computer unless you switch on sharing (for ChatGPT or teammates). MemoryComb goes online only to check for a newer version once a day (it asks for the version number, nothing else), to check a paid license key once a week, and for sharing you switch on.
 
-## Free trial
-Everything is free for 7 days. After that the Free plan stays free forever (350 memories, 2 AIs). Nothing is ever deleted, and you can always view and export your memory.
+## Free
+MemoryComb is free: unlimited memories, every AI, every trust feature. No trial, no countdown, and nothing is ever deleted.
+
+**Cloud** ($12.99/month, or $119/year) adds sharing projects with teammates, always-on links so ChatGPT and your phone work with your computer off, and encrypted cloud backup. During early testing, team sharing is free and runs from your own computer. Early testers keep a founding price of $9.99/month for life.
 
 ## Uninstall
 ```bash
