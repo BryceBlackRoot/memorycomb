@@ -4,7 +4,7 @@
 
 MemoryComb is a memory library that lives on your computer. Claude, ChatGPT and your other AIs all read and write the same memory, so you stop re-explaining yourself every time you switch AIs. Every read has a receipt, and an AI Scorecard shows which AI's facts turned out wrong.
 
-**Built to be trusted:** every memory is checked for hidden instructions before any AI reads it, your AIs can fact-check each other (you settle any disagreement), and your memory stays on your computer with encrypted backups to your own iCloud.
+**Built to be trusted:** every memory is checked for hidden instructions before any AI reads it, your AIs can fact-check each other (you settle any disagreement), and your memory stays on your computer with encrypted backups to your own iCloud Drive or OneDrive.
 
 This page has the downloads only. MemoryComb is in early testing on **Mac and Windows** (Windows is newer: tell us what breaks).
 
@@ -15,7 +15,7 @@ By installing MemoryComb you agree to the [License](LICENSE.md). Please also rea
 ### If you use the Claude app (easiest)
 1. Download **memorycomb-*.mcpb** from the [latest release](../../releases/latest).
 2. Double-click it. Claude opens its install screen; click **Install**.
-   Claude shows a red "not verified" warning for every extension that isn't in its directory yet. What MemoryComb touches: only its own memory folder on your computer (`~/.memorycomb`) and an encrypted daily backup in your iCloud Drive.
+   Claude shows a red "not verified" warning for every extension that isn't in its directory yet. What MemoryComb touches: only its own memory folder on your computer (`~/.memorycomb`) and an encrypted daily backup in your iCloud Drive (Mac) or OneDrive (Windows).
 3. Start a new chat and ask: **"What's in my MemoryComb?"**
 
 ### Mac: Terminal (Claude Code, ChatGPT and everything else)
@@ -39,9 +39,7 @@ Your dashboard is at **http://127.0.0.1:8765** (it only opens on your own comput
 Your memory never leaves your computer unless you switch on sharing (for ChatGPT or teammates). MemoryComb goes online only to check for a newer version once a day (it asks for the version number, nothing else), to check a paid license key once a week, and for sharing you switch on.
 
 ## Free
-MemoryComb is free: unlimited memories, every AI, every trust feature. No trial, no countdown, and nothing is ever deleted.
-
-**Cloud** ($12.99/month, or $119/year) adds sharing projects with teammates, always-on links so ChatGPT and your phone work with your computer off, and encrypted cloud backup. During early testing, team sharing is free and runs from your own computer. Early testers keep a founding price of $9.99/month for life.
+MemoryComb is free. Everything is included: unlimited memories, every AI, every trust feature, and team sharing. No trial, nothing to buy, and nothing is ever deleted. Team sharing runs from the computer of whoever starts the shared project, so teammates can reach it while that computer is on.
 
 ## Uninstall
 ```bash

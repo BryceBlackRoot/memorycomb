@@ -1,11 +1,11 @@
 # MemoryComb License (early test version)
 
-Effective October 12, 2026. By installing or using MemoryComb you agree to this license. If you don't agree, don't install it, or uninstall it.
+Effective October 14, 2026. By installing or using MemoryComb you agree to this license. If you don't agree, don't install it, or uninstall it.
 
 "MemoryComb" means the app, its dashboard, its Claude extension, its installers and these documents. "We" means the developer of MemoryComb. "You" means the person or organization using it.
 
 ## 1. Early test software
-MemoryComb is an early test version. It may have bugs, change without notice, or stop working. During testing it is free. Paid plans will come with their own terms, which you'll see before you pay.
+MemoryComb is an early test version. It may have bugs, change without notice, or stop working. MemoryComb is free. If a paid service is ever offered, it will come with its own terms, which you'll see before you pay.
 
 ## 2. What you may do
 You may install and use MemoryComb on computers you own or control, for yourself or for your own team's work.
@@ -30,7 +30,7 @@ MemoryComb works with services run by other companies, including Anthropic (Clau
 MemoryComb is provided **"as is" and "as available," without warranties of any kind**, whether express or implied, including warranties of merchantability, fitness for a particular purpose, non-infringement, and that it will be accurate, uninterrupted or free of errors or data loss. Some places don't allow these exclusions, so some of them may not apply to you.
 
 ## 7. Limit of liability
-To the fullest extent the law allows, we are not liable for any indirect, incidental, special, consequential or punitive damages, or for lost data, profits or business, arising from your use of MemoryComb, even if we were told they were possible. Our total liability for any claim is limited to the amount you paid us for MemoryComb in the 12 months before the claim. During the free test, that amount is zero. Some places don't allow these limits, so they apply only as far as the law allows.
+To the fullest extent the law allows, we are not liable for any indirect, incidental, special, consequential or punitive damages, or for lost data, profits or business, arising from your use of MemoryComb, even if we were told they were possible. Our total liability for any claim is limited to the amount you paid us for MemoryComb in the 12 months before the claim. Because MemoryComb is free, that amount is zero. Some places don't allow these limits, so they apply only as far as the law allows.
 
 ## 8. Changes and ending
 We may update this license. The current version is always included with MemoryComb and on its download page, with the date at the top. If you keep using MemoryComb after a change, the new version applies. You can stop at any time by uninstalling. Uninstalling never deletes your memory. Instructions are on the download page.
