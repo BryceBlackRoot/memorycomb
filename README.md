@@ -36,7 +36,7 @@ Your dashboard is at **http://127.0.0.1:8765** (it only opens on your own comput
 - **Team**: share one memory with the people you work with (test version: runs while your computer is on).
 
 ## Privacy
-Your memory never leaves your computer unless you switch on sharing (for ChatGPT or teammates). MemoryComb goes online only to check for a newer version once a day (it asks for the version number, nothing else), to check a paid license key once a week, and for sharing you switch on.
+Your memory never leaves your computer unless you switch on sharing (for ChatGPT or teammates). MemoryComb goes online only to check for a newer version once a day (it asks for the version number, nothing else) and for sharing you switch on.
 
 ## Free
 MemoryComb is free. Everything is included: unlimited memories, every AI, every trust feature, and team sharing. No trial, nothing to buy, and nothing is ever deleted. Team sharing runs from the computer of whoever starts the shared project, so teammates can reach it while that computer is on.
